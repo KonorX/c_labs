@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Ruslan\2sem\c ucheba\lab2.2.6\lab2.2.6\Source.cpp(18,28): warning C4305: инициализация: усечение из "double" в "float"
+C:\Ruslan\2sem\c ucheba\lab2.2.6\lab2.2.6\Source.cpp(34,67): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Ruslan\2sem\c ucheba\lab2.2.6\lab2.2.6\Source.cpp(48,67): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Ruslan\2sem\c ucheba\lab2.2.6\lab2.2.6\Source.cpp(56,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Ruslan\2sem\c ucheba\lab2.2.6\lab2.2.6\Source.cpp(56,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "double"
+C:\Ruslan\2sem\c ucheba\lab2.2.6\lab2.2.6\Source.cpp(56,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "double"
+C:\Ruslan\2sem\c ucheba\lab2.2.6\lab2.2.6\Source.cpp(56,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "4" имеет тип "double"
+C:\Ruslan\2sem\c ucheba\lab2.2.6\lab2.2.6\Source.cpp(19,8): warning C4101: a: неиспользованная локальная переменная
+C:\Ruslan\2sem\c ucheba\lab2.2.6\lab2.2.6\Source.cpp(19,11): warning C4101: b: неиспользованная локальная переменная
+  lab2.2.6.vcxproj -> C:\Ruslan\2sem\c ucheba\lab2.2.6\Debug\lab2.2.6.exe
