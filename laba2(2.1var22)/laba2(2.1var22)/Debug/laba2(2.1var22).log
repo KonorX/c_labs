@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Ruslan\2sem\c ucheba\laba2(2.1var22)\laba2(2.1var22)\Source.cpp(14,10): warning C4477: "scanf_s": в строке форматирования "%c" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Ruslan\2sem\c ucheba\laba2(2.1var22)\laba2(2.1var22)\Source.cpp(14,10): message : этот аргумент используется описателем преобразования
+C:\Ruslan\2sem\c ucheba\laba2(2.1var22)\laba2(2.1var22)\Source.cpp(14,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Ruslan\2sem\c ucheba\laba2(2.1var22)\laba2(2.1var22)\Source.cpp(14,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Ruslan\2sem\c ucheba\laba2(2.1var22)\laba2(2.1var22)\Source.cpp(14,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Ruslan\2sem\c ucheba\laba2(2.1var22)\laba2(2.1var22)\Source.cpp(14,10): message : этот аргумент используется в качестве размера буфера
+  laba2(2.1var22).vcxproj -> C:\Ruslan\2sem\c ucheba\laba2(2.1var22)\Debug\laba2(2.1var22).exe
